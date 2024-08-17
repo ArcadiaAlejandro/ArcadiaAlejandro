@@ -2,7 +2,6 @@
 <h1 align="center">Hola, soy <a href="">Alejandro Antonio</a> 👋</h1>
 </div>
 <img src="https://i.pinimg.com/736x/32/0a/79/320a79f4adc9e0e72135888319f18aa8.jpg">
-<p align="center">Hola, soy <a href="https://aristi.dev">Alejandro Antonio</a> 👋</p>
 
 [![Facebook](https://img.icons8.com/ios-filled/50/000000/facebook.png)](https://www.facebook.com/alejandro.charun)
 [![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/alejandro-antonio-de-la-cruz-charun-a7805a21b/)
