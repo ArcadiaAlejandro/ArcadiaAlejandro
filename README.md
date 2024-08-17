@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">Alejandro Antonio</a> 👋</h1>
 </div>
-<img src="https://es.pinterest.com/pin/967288826215376314/">
+<img src="https://i.pinimg.com/736x/32/0a/79/320a79f4adc9e0e72135888319f18aa8.jpg">
 <p align="center">Hola, soy <a href="https://aristi.dev">Alejandro Antonio</a> 👋</p>
 
 [![Facebook](https://img.icons8.com/ios-filled/50/000000/facebook.png)](https://www.facebook.com/alejandro.charun)
